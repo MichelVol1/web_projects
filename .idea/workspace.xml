@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f36e20e9-e6f2-4a9c-a18c-fc1ed621c50d" name="Changes" comment="" />
+    <list default="true" id="f36e20e9-e6f2-4a9c-a18c-fc1ed621c50d" name="Changes" comment="added 2 lab link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MichelVol1/web_projects.git",
-    "accountId": "34389fe0-195d-4ccb-9594-59f3aee18e61"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MichelVol1&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MichelVol1/web_projects.git&quot;,
+    &quot;accountId&quot;: &quot;34389fe0-195d-4ccb-9594-59f3aee18e61&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -29,20 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.lab1_index.html.executor": "Run",
-    "JavaScript Debug.lab2_index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.STR_lab_5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lab1_index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.lab2_index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mike\Documents\Учёба 5 сем\web\lab_2\static" />
@@ -51,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
       </set>
     </attachedChunks>
   </component>
@@ -67,11 +82,58 @@
       <workItem from="1727263444759" duration="797000" />
       <workItem from="1727436055224" duration="1486000" />
       <workItem from="1727441409530" duration="341000" />
-      <workItem from="1727444215583" duration="4145000" />
+      <workItem from="1727444215583" duration="5038000" />
+      <workItem from="1727788675984" duration="494000" />
+      <workItem from="1728998853090" duration="289000" />
+      <workItem from="1729076909826" duration="957000" />
+      <workItem from="1729179692317" duration="86000" />
+      <workItem from="1729179794770" duration="7000" />
+      <workItem from="1729179809159" duration="11000" />
+      <workItem from="1729181441849" duration="2000" />
+      <workItem from="1729182702449" duration="122000" />
+      <workItem from="1729183869689" duration="187000" />
+      <workItem from="1729184248426" duration="1000" />
+      <workItem from="1729185912590" duration="11000" />
+      <workItem from="1729339530474" duration="45000" />
+      <workItem from="1729778504571" duration="1455000" />
+      <workItem from="1729804442380" duration="1587000" />
+      <workItem from="1729840309727" duration="3684000" />
+      <workItem from="1729848042151" duration="3991000" />
+      <workItem from="1729852279515" duration="164000" />
+      <workItem from="1729860840723" duration="2546000" />
     </task>
+    <task id="LOCAL-00001" summary="added 2 lab link">
+      <option name="closed" value="true" />
+      <created>1727450539491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727450539491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added 2 lab link">
+      <option name="closed" value="true" />
+      <created>1727450592919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727450592919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added 2 lab link">
+      <option name="closed" value="true" />
+      <created>1727450658444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727450658444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added 2 lab link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 lab link" />
   </component>
 </project>
