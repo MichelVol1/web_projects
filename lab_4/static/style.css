@@ -23,7 +23,7 @@ button {
     margin: 50px;
     font-size: 20px;
     background-color: red;
-    animation: vibrate 0.1s infinite alternate;
+    animation: vibrate 0.1s infinite;
     transition: background-color 0.3s;
     cursor: pointer;
 }
@@ -78,7 +78,7 @@ a:hover::after {
     border-radius: 50%;
     position: absolute;
     bottom: 0;
-    animation: drop 2s cubic-bezier(.28, .84, .42, 1) infinite;
+    animation: drop 2s cubic-bezier(.28, .84, .42, 1), forwards;
 }
 
 @keyframes drop {
